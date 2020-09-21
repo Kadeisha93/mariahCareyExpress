@@ -1,4 +1,4 @@
-![Mariah Carey](public/mariah.jpg)
+![Mariah Carey](screenshot.png)
 
 ## Installation
 
