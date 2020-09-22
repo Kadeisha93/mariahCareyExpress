@@ -7,6 +7,7 @@ I created a web application utilizing Express and Node.js for any Mariah Carey f
 ## How It's Made
 
 **Tech Used:** HTML, CSS, Javacrsipt, Express, Node.js, Mongo DB
+
 This website is a page that allows the client to post a message, view gifs, and "like" and "heart" any messages that were left on the page. All results are held in a database, so if the person with the same credentials logs back in, they can see the previous results.
 
 ## Installation
